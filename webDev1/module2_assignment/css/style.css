@@ -17,6 +17,7 @@ h1 {
   margin-bottom: 32px;
   max-height: 250px;
   overflow: hidden;
+  background-color: #999999;
 }
 
 .mainContainer {
